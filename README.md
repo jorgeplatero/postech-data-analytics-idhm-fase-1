@@ -1,4 +1,4 @@
-# Aplicativo Web com Dashboard com dados do IDHM do Estado de São Paulo no Ano de 2010
+# Dashboard com Indicadores IDHM do estado de São Paulo no ano de 2010
 
 ## Descrição do Projeto
 
