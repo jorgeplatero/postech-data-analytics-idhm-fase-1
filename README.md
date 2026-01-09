@@ -48,7 +48,7 @@ streamlit run app.py
 | **Visualização** | **Plotly** | `5.15.0` | Biblioteca para criação de gráficos dinâmicos e interativos |
 | **Comunicação** | **Requests** | `2.31.0` | Biblioteca para requisições HTTP e integração de dados |
 | **Linguagem** | **Python** | `>=3.11` | Linguagem de programação base para o desenvolvimento dos scripts |
-| **Gerenciamento** | **Venv** | `-` | Gerenciador de pacotes e ambientes virtuais utilizado para garantir a reprodutibilidade das dependências do projeto |
+| **Gerenciamento** | **Venv** | `-` | Gerenciador de ambientes virtuais para isolamento de dependências |
 
 ### Fontes de Dados
 
